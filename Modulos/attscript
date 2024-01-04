@@ -62,7 +62,7 @@ fun_atts () {
 
   [[ -e /tmp/att ]] && rm /tmp/att
 
-	wget -c -P /home wget -y; bash <(wget -qO- raw.githubusercontent.com/astrogestor/astro5g/main/Install/versao)
+	wget -c -P /home wget -y; bash <(wget -qO- raw.githubusercontent.com/LUan998900720/luantec4gmain/Install/versao)
 
 	[[ -f "/home/versao" ]] && mv /home/versao /tmp/att
 
@@ -132,7 +132,7 @@ vrs2=$(sed -n '1 p' /tmp/att | sed -e 's/[^0-9]//ig')
 
     sleep 3
 
-    wget -y; bash <(wget -qO- raw.githubusercontent.com/astrogestor/astro5g/main/ASTRO 5G) > /dev/null 2>&1
+    wget -y; bash <(wget -qO- raw.githubusercontent.com/LUan998900720/luantec4gmain/ASTRO 5G) > /dev/null 2>&1
 
     chmod +x Plus
 

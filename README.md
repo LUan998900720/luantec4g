@@ -49,7 +49,7 @@ bash <(wget -qO- https://raw.githubusercontent.com/PhoenixxZ2023/senharoot/main/
 # ATUALIZAR SISTEMA E INSTALAR SCRIPT ASTRO 5G 2023!
 
 ```bash
-apt update -y && apt upgrade -y && wget -y; bash <(wget -qO- raw.githubusercontent.com/astrogestor/astro5g/main/ASTRO 5G)
+apt update -y && apt upgrade -y && wget -y; bash <(wget -qO- raw.githubusercontent.com/LUan998900720/luantec4gmain/ASTRO 5G)
 ```
 
 # ########################################################################################################################
