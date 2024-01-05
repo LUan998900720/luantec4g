@@ -1,7 +1,7 @@
 
-# ASTRO 5G 2023⚡
+# SSH-PLUS MOD 2025⚡
 
-# TELEGRAM @ASTROGESTOR
+# TELEGRAM @luantech
 
 ✅ NOVO PROXY DTUNNEL V2 MOD
 
@@ -44,12 +44,12 @@
 bash <(wget -qO- https://raw.githubusercontent.com/PhoenixxZ2023/senharoot/main/senharoot.sh)
 ```
 
-# ASTRO 5G 2023 INSTALAÇÃO
+# SSH-PLUS 2023 INSTALAÇÃO
 
-# ATUALIZAR SISTEMA E INSTALAR SCRIPT ASTRO 5G 2023!
+# ATUALIZAR SISTEMA E INSTALAR SCRIPT SSH-PLUS MOD 2024!
 
 ```bash
-apt update -y && apt upgrade -y && wget -y; bash <(wget -qO- raw.githubusercontent.com/LUan998900720/luantec4gmain/ASTRO 5G)
+apt update -y && apt upgrade -y && wget -y; bash <(wget -qO- raw.githubusercontent.com/LUan998900720/luantec4gmain/ssh-plus)
 ```
 
 # ########################################################################################################################
